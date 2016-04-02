@@ -11,7 +11,7 @@ var (
 	defaultProjectMap map[string]*Project
 	defaultProjects   = []*Project{
 		makeProject("bunto", "bunto/bunto", "ruby", "bunto"),
-		makeProject("jemoji", "bunto/jemoji", "master", "jemoji"),
+		makeProject("bemoji", "bunto/bemoji", "master", "bemoji"),
 		makeProject("mercenary", "bunto/mercenary", "master", "mercenary"),
 		makeProject("bunto-import", "bunto/bunto-import", "master", "bunto-import"),
 		makeProject("bunto-feed", "bunto/bunto-feed", "master", "bunto-feed"),
