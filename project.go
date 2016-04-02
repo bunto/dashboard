@@ -23,7 +23,7 @@ var (
 		makeProject("bunto-gist", "bunto/bunto-gist", "master", "bunto-gist"),
 		makeProject("bunto-coffeescript", "bunto/bunto-coffeescript", "master", "bunto-coffeescript"),
 		makeProject("bunto-opal", "bunto/bunto-opal", "master", "bunto-opal"),
-		makeProject("classifier-reborn", "bunto/classifier-reborn", "master", "classifier-reborn"),
+		makeProject("classifier-reborn", "bunto/classifier-reborn", "master", "bunto-classifier-reborn"),
 		makeProject("bunto-sass-converter", "bunto/bunto-sass-converter", "master", "bunto-sass-converter"),
 		makeProject("bunto-textile-converter", "bunto/bunto-textile-converter", "master", "bunto-textile-converter"),
 		makeProject("bunto-redirect-from", "bunto/bunto-redirect-from", "master", "bunto-redirect-from"),
